@@ -1,0 +1,612 @@
+Epoch 1
+average training loss: 2.2395395150681807
+average validation loss: 2.168782495437784
+
+Epoch 2
+average training loss: 2.0676577988582387
+average validation loss: 1.9415354669516816
+
+Epoch 3
+average training loss: 1.7753687632780693
+average validation loss: 1.6018383845369868
+
+Epoch 4
+average training loss: 1.453179999079561
+average validation loss: 1.3224958566063683
+
+Epoch 5
+average training loss: 1.2250633875340646
+average validation loss: 1.141468939206279
+
+Epoch 6
+average training loss: 1.0778538286450539
+average validation loss: 1.0232789302971346
+
+Epoch 7
+average training loss: 0.9794513980547587
+average validation loss: 0.9421792873676788
+
+Epoch 8
+average training loss: 0.9103327616931515
+average validation loss: 0.8834573457427058
+
+Epoch 9
+average training loss: 0.8592055381097689
+average validation loss: 0.8391016770339181
+
+Epoch 10
+average training loss: 0.8198340144626338
+average validation loss: 0.804116925026508
+
+Epoch 11
+average training loss: 0.788364380762852
+average validation loss: 0.7757747509378068
+
+Epoch 12
+average training loss: 0.7620566450471373
+average validation loss: 0.7517107332006413
+
+Epoch 13
+average training loss: 0.7396527674831862
+average validation loss: 0.7311594927987307
+
+Epoch 14
+average training loss: 0.7197780718947474
+average validation loss: 0.7124470074971517
+
+Epoch 15
+average training loss: 0.7018573017199458
+average validation loss: 0.6957963909029115
+
+Epoch 16
+average training loss: 0.6854658083987274
+average validation loss: 0.6803283373303447
+
+Epoch 17
+average training loss: 0.6701628366988417
+average validation loss: 0.6666818086771255
+
+Epoch 18
+average training loss: 0.6561619156815618
+average validation loss: 0.65217018211987
+
+Epoch 19
+average training loss: 0.6430098418069865
+average validation loss: 0.6403528151782693
+
+Epoch 20
+average training loss: 0.630621544381171
+average validation loss: 0.6282471907688372
+
+Epoch 21
+average training loss: 0.619108855124051
+average validation loss: 0.6171056009987567
+
+Epoch 22
+average training loss: 0.6082960546817071
+average validation loss: 0.6074436808942902
+
+Epoch 23
+average training loss: 0.5984514979954579
+average validation loss: 0.5973383248486418
+
+Epoch 24
+average training loss: 0.5890716571613887
+average validation loss: 0.588846227484392
+
+Epoch 25
+average training loss: 0.580428693190476
+average validation loss: 0.5803362227289389
+
+Epoch 26
+average training loss: 0.5723413197503177
+average validation loss: 0.5732425010584771
+
+Epoch 27
+average training loss: 0.5647677782375665
+average validation loss: 0.5661823035131955
+
+Epoch 28
+average training loss: 0.5577120202906889
+average validation loss: 0.5590051766617079
+
+Epoch 29
+average training loss: 0.5510001562735858
+average validation loss: 0.5528832964651974
+
+Epoch 30
+average training loss: 0.5448781209534379
+average validation loss: 0.5467845621049827
+
+Epoch 31
+average training loss: 0.5389977838214352
+average validation loss: 0.5410815146586574
+
+Epoch 32
+average training loss: 0.5334345497908939
+average validation loss: 0.5360836401476082
+
+Epoch 33
+average training loss: 0.5284540480676609
+average validation loss: 0.5308270025337841
+
+Epoch 34
+average training loss: 0.5235941497870908
+average validation loss: 0.5256443071238538
+
+Epoch 35
+average training loss: 0.5189219984103812
+average validation loss: 0.5212521116572915
+
+Epoch 36
+average training loss: 0.5146761149297487
+average validation loss: 0.517595001674713
+
+Epoch 37
+average training loss: 0.5105644892283243
+average validation loss: 0.5136703995736778
+
+Epoch 38
+average training loss: 0.506577466124607
+average validation loss: 0.5099879286602035
+
+Epoch 39
+average training loss: 0.5028378998722416
+average validation loss: 0.5065095846323256
+
+Epoch 40
+average training loss: 0.49949868098725264
+average validation loss: 0.5032363699894425
+
+Epoch 41
+average training loss: 0.4961673098823753
+average validation loss: 0.5000577147336717
+
+Epoch 42
+average training loss: 0.4930353798796121
+average validation loss: 0.49736481418846346
+
+Epoch 43
+average training loss: 0.4900537963844777
+average validation loss: 0.49397184197784316
+
+Epoch 44
+average training loss: 0.4871327452961867
+average validation loss: 0.4905089876541855
+
+Epoch 45
+average training loss: 0.48443507955749454
+average validation loss: 0.4881009875882602
+
+Epoch 46
+average training loss: 0.48172959780664804
+average validation loss: 0.486181934146171
+
+Epoch 47
+average training loss: 0.47917774592130485
+average validation loss: 0.48279522274825587
+
+Epoch 48
+average training loss: 0.47671545472284443
+average validation loss: 0.48122918605804443
+
+Epoch 49
+average training loss: 0.47456506067095394
+average validation loss: 0.47846106064657795
+
+Epoch 50
+average training loss: 0.4722097884057352
+average validation loss: 0.4767862053204936
+
+Epoch 51
+average training loss: 0.4698545862972077
+average validation loss: 0.47575375236940715
+
+Epoch 52
+average training loss: 0.46792081186745027
+average validation loss: 0.47249438122231907
+
+Epoch 53
+average training loss: 0.4659059887390001
+average validation loss: 0.4705080744011183
+
+Epoch 54
+average training loss: 0.46377110523046666
+average validation loss: 0.4706043790206842
+
+Epoch 55
+average training loss: 0.46195598369196506
+average validation loss: 0.46674869796063034
+
+Epoch 56
+average training loss: 0.4600807188658447
+average validation loss: 0.46517717135502096
+
+Epoch 57
+average training loss: 0.4582350623409895
+average validation loss: 0.4644466352695269
+
+Epoch 58
+average training loss: 0.45664112785416194
+average validation loss: 0.4638932356280638
+
+Epoch 59
+average training loss: 0.45500714704982853
+average validation loss: 0.46019846470432074
+
+Epoch 60
+average training loss: 0.4531720319253762
+average validation loss: 0.4593262856839397
+
+Epoch 61
+average training loss: 0.45153214710677775
+average validation loss: 0.4579890042754775
+
+Epoch 62
+average training loss: 0.44992970994204334
+average validation loss: 0.45630636885233805
+
+Epoch 63
+average training loss: 0.44838169366592107
+average validation loss: 0.45417411852601575
+
+Epoch 64
+average training loss: 0.44698178991793086
+average validation loss: 0.4544864078151419
+
+Epoch 65
+average training loss: 0.44541452595549175
+average validation loss: 0.4519855261694455
+
+Epoch 66
+average training loss: 0.44417070517372365
+average validation loss: 0.45029590654034984
+
+Epoch 67
+average training loss: 0.4427612920131352
+average validation loss: 0.4492087836066882
+
+Epoch 68
+average training loss: 0.44132971780677727
+average validation loss: 0.4484537499065095
+
+Epoch 69
+average training loss: 0.4399536088061935
+average validation loss: 0.44661061465740204
+
+Epoch 70
+average training loss: 0.4386482795209022
+average validation loss: 0.4455619073400261
+
+Epoch 71
+average training loss: 0.4372866284131627
+average validation loss: 0.44464552640280824
+
+Epoch 72
+average training loss: 0.43609241816975874
+average validation loss: 0.4453225537394801
+
+Epoch 73
+average training loss: 0.43477546045847976
+average validation loss: 0.44275224864060153
+
+Epoch 74
+average training loss: 0.43362102935334895
+average validation loss: 0.4412051126994985
+
+Epoch 75
+average training loss: 0.43233406920380313
+average validation loss: 0.4396641166708994
+
+Epoch 76
+average training loss: 0.4311620502263354
+average validation loss: 0.43900770588335414
+
+Epoch 77
+average training loss: 0.4300388238653188
+average validation loss: 0.4390355014103524
+
+Epoch 78
+average training loss: 0.42882363355790654
+average validation loss: 0.4367216968155922
+
+Epoch 79
+average training loss: 0.42759236181375543
+average validation loss: 0.43566295134683025
+
+Epoch 80
+average training loss: 0.4265648511313431
+average validation loss: 0.43540311990477515
+
+Epoch 81
+average training loss: 0.4253944653081951
+average validation loss: 0.43494691308719896
+
+Epoch 82
+average training loss: 0.42451734057558466
+average validation loss: 0.4323664290685181
+
+Epoch 83
+average training loss: 0.423359730915059
+average validation loss: 0.43284184681185595
+
+Epoch 84
+average training loss: 0.4222656310393253
+average validation loss: 0.4309399899438764
+
+Epoch 85
+average training loss: 0.4212629389647529
+average validation loss: 0.4295690396259017
+
+Epoch 86
+average training loss: 0.42036730416507523
+average validation loss: 0.42905400101597424
+
+Epoch 87
+average training loss: 0.4192584796233388
+average validation loss: 0.4283171457284731
+
+Epoch 88
+average training loss: 0.41808699854424497
+average validation loss: 0.42682756747759826
+
+Epoch 89
+average training loss: 0.4172418087038195
+average validation loss: 0.4266112782853715
+
+Epoch 90
+average training loss: 0.416224891734773
+average validation loss: 0.42536778890706123
+
+Epoch 91
+average training loss: 0.4152260461666197
+average validation loss: 0.425503635395926
+
+Epoch 92
+average training loss: 0.4142069522568023
+average validation loss: 0.42380903249091295
+
+Epoch 93
+average training loss: 0.41338091381894654
+average validation loss: 0.4227929745688506
+
+Epoch 94
+average training loss: 0.4124978229838996
+average validation loss: 0.4234906087847466
+
+Epoch 95
+average training loss: 0.41161455670121533
+average validation loss: 0.4213936949769656
+
+Epoch 96
+average training loss: 0.4105986051826398
+average validation loss: 0.4207773070174752
+
+Epoch 97
+average training loss: 0.40966900216200713
+average validation loss: 0.4209185623636482
+
+Epoch 98
+average training loss: 0.4088314820263435
+average validation loss: 0.4190577613652175
+
+Epoch 99
+average training loss: 0.40795489001613094
+average validation loss: 0.4182173193346524
+
+Epoch 100
+average training loss: 0.40710319798751654
+average validation loss: 0.4175573138269127
+
+Epoch 101
+average training loss: 0.4061546621764723
+average validation loss: 0.41717454843910023
+
+Epoch 102
+average training loss: 0.40526462789466033
+average validation loss: 0.4158171024305601
+
+Epoch 103
+average training loss: 0.40445023914578404
+average validation loss: 0.41504217615575656
+
+Epoch 104
+average training loss: 0.4034507116670669
+average validation loss: 0.41490329146807925
+
+Epoch 105
+average training loss: 0.40281804999421933
+average validation loss: 0.41522366046271425
+
+Epoch 106
+average training loss: 0.40194773659886907
+average validation loss: 0.41361278311369265
+
+Epoch 107
+average training loss: 0.40107211743085686
+average validation loss: 0.41301251784072696
+
+Epoch 108
+average training loss: 0.40038127896462755
+average validation loss: 0.4129043548559466
+
+Epoch 109
+average training loss: 0.3994223083094304
+average validation loss: 0.4110610429593857
+
+Epoch 110
+average training loss: 0.39871967553292026
+average validation loss: 0.4108654793801037
+
+Epoch 111
+average training loss: 0.39784849913846737
+average validation loss: 0.4106208136212741
+
+Epoch 112
+average training loss: 0.397176437321197
+average validation loss: 0.40872005922785887
+
+Epoch 113
+average training loss: 0.39638809436611466
+average validation loss: 0.4093058713784455
+
+Epoch 114
+average training loss: 0.39555841005196885
+average validation loss: 0.4085772893001847
+
+Epoch 115
+average training loss: 0.39478360213586505
+average validation loss: 0.40682222725863154
+
+Epoch 116
+average training loss: 0.3940294809745386
+average validation loss: 0.4069297999566328
+
+Epoch 117
+average training loss: 0.39322018756061833
+average validation loss: 0.4058159252113484
+
+Epoch 118
+average training loss: 0.39259970560081386
+average validation loss: 0.40508928424711765
+
+Epoch 119
+average training loss: 0.39164742638796896
+average validation loss: 0.40573749955452926
+
+Epoch 120
+average training loss: 0.3909145513929038
+average validation loss: 0.405167375578948
+
+Epoch 121
+average training loss: 0.39025182802506725
+average validation loss: 0.4038168736172061
+
+Epoch 122
+average training loss: 0.38944393297801555
+average validation loss: 0.4020197723879882
+
+Epoch 123
+average training loss: 0.38872373755579875
+average validation loss: 0.40404438887927546
+
+Epoch 124
+average training loss: 0.38787374004580394
+average validation loss: 0.4019441447148086
+
+Epoch 125
+average training loss: 0.3874396390589116
+average validation loss: 0.40165293893070086
+
+Epoch 126
+average training loss: 0.38666754686472254
+average validation loss: 0.4003698922006797
+
+Epoch 127
+average training loss: 0.38584544338686116
+average validation loss: 0.4009382311545365
+
+Epoch 128
+average training loss: 0.38527131979876034
+average validation loss: 0.3989428139641775
+
+Epoch 129
+average training loss: 0.3844095381774231
+average validation loss: 0.3990576257202642
+
+Epoch 130
+average training loss: 0.38376798322439004
+average validation loss: 0.3989373972864016
+
+Epoch 131
+average training loss: 0.3830739684803131
+average validation loss: 0.3978465723653212
+
+Epoch 132
+average training loss: 0.3823770385406217
+average validation loss: 0.39724769665205734
+
+Epoch 133
+average training loss: 0.3815849719901598
+average validation loss: 0.3963123184780703
+
+Epoch 134
+average training loss: 0.38109379565405055
+average validation loss: 0.3964550704398054
+
+Epoch 135
+average training loss: 0.3803654522392281
+average validation loss: 0.3958472490627715
+
+Epoch 136
+average training loss: 0.3796934471487716
+average validation loss: 0.39566090164032386
+
+Epoch 137
+average training loss: 0.37893237661434953
+average validation loss: 0.39531854873007916
+
+Epoch 138
+average training loss: 0.37813930272891244
+average validation loss: 0.39355485875767177
+
+Epoch 139
+average training loss: 0.3776854941971588
+average validation loss: 0.39332186372567574
+
+Epoch 140
+average training loss: 0.37694701500601874
+average validation loss: 0.39379749859267094
+
+Epoch 141
+average training loss: 0.3762493435099226
+average validation loss: 0.39386587521285876
+
+Epoch 142
+average training loss: 0.37573779767488036
+average validation loss: 0.3919130201246721
+
+Epoch 143
+average training loss: 0.37496692953575367
+average validation loss: 0.392159160200163
+
+Epoch 144
+average training loss: 0.3743997324393447
+average validation loss: 0.3910493100894259
+
+Epoch 145
+average training loss: 0.37376063535398973
+average validation loss: 0.3897568223112864
+
+Epoch 146
+average training loss: 0.37301018812044817
+average validation loss: 0.3897417717157526
+
+Epoch 147
+average training loss: 0.3723333605975619
+average validation loss: 0.3892867437808227
+
+Epoch 148
+average training loss: 0.3719404159587518
+average validation loss: 0.38992280074467894
+
+Epoch 149
+average training loss: 0.3711660961204137
+average validation loss: 0.3877073417529992
+
+Epoch 150
+average training loss: 0.3705692586987787
+average validation loss: 0.38888642598762574
+
+All 150 epochs are done
+Average training accuracy-> 82.74%
+Standard error of the mean of the training accuracy-> 6.79
+
+Average validation accuracy-> 82.61%
+Standard error of the mean of the validation accuracy-> 5.83
+
+Average validation accuracy for the best model for each validation set-> 86.67%
+Standard error of the mean of the validation accuracy of the best models-> 0.29
+
+Training accuracy on the best model-> 87.3%
+Testing accuracy on the best model-> 85.5%
