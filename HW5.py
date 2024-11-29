@@ -50,12 +50,14 @@ class NeuralNetwork(nn.Module):
 
     def set_layers(self, layers, activation):
         self.layers = layers
+        # set activation function for part2 extracredit
         if activation == "ReLU":
             activation_fn = nn.ReLU()
         elif activation == "Tanh":
             activation_fn = nn.Tanh()
         else:
             activation_fn = nn.SiLU()
+        # set layers
         if layers == "small":
             self.linear_relu_stack = nn.Sequential(
                 nn.Linear(28*28, 10),
@@ -106,6 +108,7 @@ class NeuralNetwork(nn.Module):
         return self.layers
 
 class NNProcessor():
+    # this class processes our NN(Neural Network). this class is capable of training and validating the given data
     def __init__(self, id):
         self.model = NeuralNetwork().to(device)
         self.loss_fn = nn.CrossEntropyLoss()
@@ -184,10 +187,11 @@ class NNProcessor():
 
     def get_layers(self):
         return self.model.get_layers()
-
+# part2
 def run_epoch_different_architecture(training_data, epochs, k):
     kf = KFold(n_splits=k, shuffle=True, random_state=42)
     NNProcessors = [[], [], []]
+    # for each list in NNProcessors, put k object of NNP(NNProcessor class)
     for i in range(len(NNProcessors)):
         for j in range(k):
             NNP = NNProcessor(j)
