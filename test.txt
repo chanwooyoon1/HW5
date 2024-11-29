@@ -1,0 +1,46 @@
+All 30 epochs are done
+
+small model: 
+Average training accuracy-> 85.67%
+Standard error of the mean of the training accuracy-> 2.45
+
+Average validation accuracy-> 84.79%
+Standard error of the mean of the validation accuracy-> 1.46
+
+Average validation accuracy for the best model for each validation set-> 86.86%
+Standard error of the mean of the validation accuracy of the best models-> 0.09
+
+
+medium model: 
+Average training accuracy-> 89.65%
+Standard error of the mean of the training accuracy-> 7.12
+
+Average validation accuracy-> 87.6%
+Standard error of the mean of the validation accuracy-> 3.15
+
+Average validation accuracy for the best model for each validation set-> 90.13%
+Standard error of the mean of the validation accuracy of the best models-> 0.05
+
+
+big model: 
+Average training accuracy-> 87.76%
+Standard error of the mean of the training accuracy-> 12.28
+
+Average validation accuracy-> 86.43%
+Standard error of the mean of the validation accuracy-> 6.35
+
+Average validation accuracy for the best model for each validation set-> 90.22%
+Standard error of the mean of the validation accuracy of the best models-> 0.11
+
+
+small: 
+Training accuracy on the best model-> 87.7%
+Testing accuracy on the best model-> 85.3%
+
+medium: 
+Training accuracy on the best model-> 93.3%
+Testing accuracy on the best model-> 88.8%
+
+big: 
+Training accuracy on the best model-> 91.6%
+Testing accuracy on the best model-> 86.8%
