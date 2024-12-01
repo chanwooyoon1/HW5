@@ -1,0 +1,45 @@
+All 30 epochs are done
+
+small model with ReLU non-linear function: 
+Average training accuracy-> 43.52%
+Standard error of the mean of the training accuracy-> 2.08
+
+Average validation accuracy-> 35.85%
+Standard error of the mean of the validation accuracy-> 2.74
+
+Average validation accuracy for the best model for each validation set-> 39.77%
+Standard error of the mean of the validation accuracy of the best models-> 0.23
+
+
+medium model with ReLU non-linear function: 
+Average training accuracy-> 75.75%
+Standard error of the mean of the training accuracy-> 17.8
+
+Average validation accuracy-> 47.81%
+Standard error of the mean of the validation accuracy-> 5.88
+
+Average validation accuracy for the best model for each validation set-> 54.89%
+Standard error of the mean of the validation accuracy of the best models-> 0.17
+
+
+big model with ReLU non-linear function: 
+Average training accuracy-> 69.17%
+Standard error of the mean of the training accuracy-> 21.4
+
+Average validation accuracy-> 45.19%
+Standard error of the mean of the validation accuracy-> 8.98
+
+Average validation accuracy for the best model for each validation set-> 54.67%
+Standard error of the mean of the validation accuracy of the best models-> 0.38
+
+small with ReLU
+Training accuracy on the best model-> 37.2%
+Testing accuracy on the best model-> 33.6%
+
+medium with ReLU
+Training accuracy on the best model-> 89.6%
+Testing accuracy on the best model-> 52.9%
+
+big with ReLU
+Training accuracy on the best model-> 85.0%
+Testing accuracy on the best model-> 50.9%
