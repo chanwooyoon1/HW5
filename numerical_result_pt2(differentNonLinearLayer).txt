@@ -1,46 +1,45 @@
 All 30 epochs are done
 
 medium model with ReLU non-linear function: 
-Average training accuracy-> 89.71%
-Standard error of the mean of the training accuracy-> 7.0
+Average training accuracy-> 89.79%
+Standard error of the mean of the training accuracy-> 6.84
 
-Average validation accuracy-> 87.39%
-Standard error of the mean of the validation accuracy-> 3.51
+Average validation accuracy-> 87.47%
+Standard error of the mean of the validation accuracy-> 3.02
 
-Average validation accuracy for the best model for each validation set-> 90.07%
-Standard error of the mean of the validation accuracy of the best models-> 0.28
+Average validation accuracy for the best model for each validation set-> 90.15%
+Standard error of the mean of the validation accuracy of the best models-> 0.05
 
 
 medium model with Tanh non-linear function: 
-Average training accuracy-> 88.02%
-Standard error of the mean of the training accuracy-> 3.76
+Average training accuracy-> 88.0%
+Standard error of the mean of the training accuracy-> 3.74
 
-Average validation accuracy-> 86.55%
-Standard error of the mean of the validation accuracy-> 2.15
+Average validation accuracy-> 86.7%
+Standard error of the mean of the validation accuracy-> 1.92
 
 Average validation accuracy for the best model for each validation set-> 88.88%
-Standard error of the mean of the validation accuracy of the best models-> 0.06
+Standard error of the mean of the validation accuracy of the best models-> 0.1
 
 
 medium model with Swish non-linear function: 
-Average training accuracy-> 84.85%
-Standard error of the mean of the training accuracy-> 13.55
+Average training accuracy-> 84.77%
+Standard error of the mean of the training accuracy-> 13.65
 
-Average validation accuracy-> 84.99%
-Standard error of the mean of the validation accuracy-> 7.06
+Average validation accuracy-> 84.8%
+Standard error of the mean of the validation accuracy-> 7.59
 
-Average validation accuracy for the best model for each validation set-> 89.04%
-Standard error of the mean of the validation accuracy of the best models-> 0.04
+Average validation accuracy for the best model for each validation set-> 89.26%
+Standard error of the mean of the validation accuracy of the best models-> 0.23
 
+medium with ReLU
+Training accuracy on the best model-> 94.7%
+Testing accuracy on the best model-> 89.3%
 
-ReLU: 
-Training accuracy on the best model-> 93.3%
-Testing accuracy on the best model-> 88.0%
-
-Tanh: 
+medium with Tanh
 Training accuracy on the best model-> 91.1%
-Testing accuracy on the best model-> 87.5%
+Testing accuracy on the best model-> 87.3%
 
-Swish: 
-Training accuracy on the best model-> 91.4%
-Testing accuracy on the best model-> 87.9%
+medium with Swish
+Training accuracy on the best model-> 89.2%
+Testing accuracy on the best model-> 85.8%
