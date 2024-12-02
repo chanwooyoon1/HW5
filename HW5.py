@@ -487,6 +487,29 @@ def final_check_different_architecture(best_model_parameters):
         test_correct /= size
         print(f"Testing accuracy on the best model-> {(100*test_correct):>0.1f}%")
 
+# Dumb algorithm that predicts the most common class in training data
+def dumb(training_data, test_data):
+  train_dataloader = DataLoader(training_data, batch_size=64, shuffle = False)
+  test_dataloader = DataLoader(test_data, batch_size=64, shuffle = False)
+
+  for images, labels in train_dataloader:
+    classes = Counter(labels.tolist())
+    common = classes.most_common(1)[0][0]
+
+  print(f"The most frequent class in the training set is: {common}")
+
+  total = 0
+  got_correct = 0
+
+  for images, labels in test_dataloader:
+    total += len(labels)
+    for i in range(len(labels)):
+      if labels[i] == common:
+        got_correct += 1
+
+  accuracy = got_correct / total
+  print(f"The accuracy of the dumb classifier is: {accuracy}")
+    
 def main():
     layers = "big"
     epochs = 30
